@@ -13,4 +13,5 @@ The models used:
 
 ## Results
 ### Naive Radom Oversampling
-
+- Model accuracy score: ~66%
+- Predicted High Risk Applicants: 
